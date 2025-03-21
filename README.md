@@ -28,3 +28,17 @@ The loan providing companies find it hard to give loans to the people due to the
 2. (previous_application.csv) contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
 3. (columns_description.csv) is data dictionary which describes the meaning of the variables.
+
+
+## Results Expected by Learners
+Present the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.
+
+Identify the missing data and use appropriate method to deal with it. (Remove columns/or replace it with an appropriate value)
+
+Hint: Note that in EDA, since it is not necessary to replace the missing value, but if you have to replace the missing value, what should be the approach. Clearly mention the approach.
+
+Identify if there are outliers in the dataset. Also, mention why do you think it is an outlier. Again, remember that for this exercise, it is not necessary to remove any data points.
+
+Identify if there is data imbalance in the data. Find the ratio of data imbalance.
+
+Hint: How will you analyse the data in case of data imbalance? You can plot more than one type of plot to analyse the different aspects due to data imbalance. For example, you can choose your own scale for the graphs, i.e. one can plot in terms of percentage or absolute value. Do this analysis for the ‘Target variable’ in the dataset ( clients with payment difficulties and all other cases). Use a mix of univariate and bivariate analysis etc.
