@@ -20,11 +20,11 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 This dataset has 3 files as explained below: 
-[Download the dataset from below.]([url](https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB))
+
 [https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB] (Download the dataset from below.)
 
-1. ['application_data.csv']([url](https://drive.google.com/file/d/1B8B6BK9T47e14BW8EWVXaRww1hdxoveZ/view?usp=drive_link))  contains all the information of the client at the time of application.The data is about whether a client has payment difficulties.
+1. [https://drive.google.com/file/d/1B8B6BK9T47e14BW8EWVXaRww1hdxoveZ/view?usp=drive_link]('application_data.csv') contains all the information of the client at the time of application.The data is about whether a client has payment difficulties.
 
-2. ['previous_application.csv']([url](https://drive.google.com/file/d/1qw4aiFI69iO5nDoXuOzVAFRlDysWIzKx/view?usp=drive_link)) contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+2. [https://drive.google.com/file/d/1qw4aiFI69iO5nDoXuOzVAFRlDysWIzKx/view?usp=drive_link]('previous_application.csv') contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
-3. ['columns_description.csv']([url](https://drive.google.com/file/d/1bvmD0QRGsRqY5S4crefID1hZyx-k_JJP/view?usp=drive_link)) is data dictionary which describes the meaning of the variables.
+3. [https://drive.google.com/file/d/1bvmD0QRGsRqY5S4crefID1hZyx-k_JJP/view?usp=drive_link]('columns_description.csv') is data dictionary which describes the meaning of the variables.
